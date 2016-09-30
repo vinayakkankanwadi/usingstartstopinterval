@@ -1,0 +1,25 @@
+{
+  "name": "usingstartstopinterval",
+  "version": "1.0.0",
+  "description": "Using start stop interval",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakkankanwadi/usingstartstopinterval.git"
+  },
+  "keywords": [
+    "startstopinterval",
+    "setinterval",
+    "clearinterval"
+  ],
+  "author": "Vinayak Kankanwadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinayakkankanwadi/usingstartstopinterval/issues"
+  },
+  "homepage": "https://github.com/vinayakkankanwadi/usingstartstopinterval#readme",
+  "dependencies": {
+    "startstopinterval": "^3.0.0"
+  }
+}
