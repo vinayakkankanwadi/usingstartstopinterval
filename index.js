@@ -15,6 +15,6 @@ ssi.startStopInterval(true,fn,1000);
 
 sleep(5000).then(() => {
  console.log("stop");
- ssi.startStopInterval(false);
+ ssi.startStopInterval(false,fn);
 });
 

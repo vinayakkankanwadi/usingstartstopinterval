@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/vinayakkankanwadi/usingstartstopinterval#readme",
   "dependencies": {
-    "startstopinterval": "^3.0.0"
+    "startstopinterval": "^4.0.0"
   }
 }
