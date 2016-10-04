@@ -1,6 +1,6 @@
 var ssi= require("startstopinterval");
 
-// sleep time expects milliseconds
+// sleep time expects milliseconds.
 function sleep (time) {
   return new Promise((resolve) => setTimeout(resolve, time));
 }
