@@ -1,4 +1,4 @@
 # usingstartstopinterval
 ```
-Using start stop interval module.
+Using start stop interval module
 ```
